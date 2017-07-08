@@ -2,7 +2,7 @@
     "name": "coderganbatte",
     "displayName": "coderGanbatte",
     "description": "to improve the programmers' performance",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "precoo",
     "engines": {
         "vscode": "^1.13.0"
